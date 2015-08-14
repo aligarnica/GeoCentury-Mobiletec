@@ -1,0 +1,2527 @@
+fileFormatVersion: 2
+guid: 8e102aabe902376478d684ff12712ffe
+timeCreated: 1438669133
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arm
+    100002: arm_2
+    100004: Boole
+    100006: Boole_1
+    100008: Boole_1_2
+    100010: Boole_1_3
+    100012: Boole_1_4
+    100014: Boole_1_5
+    100016: Boole_1_6
+    100018: Boole_1_7
+    100020: Boole_1_8
+    100022: Boole_2
+    100024: Boole_2_2
+    100026: Boole_2_3
+    100028: Boole_2_4
+    100030: Boole_2_5
+    100032: Boole_3
+    100034: Boole_3_2
+    100036: Boole_3_3
+    100038: Boole_3_4
+    100040: Boole_4
+    100042: Boole_4_2
+    100044: Cube
+    100046: Cube_0
+    100048: Cube_1
+    100050: Cube_10
+    100052: Cube_10_2
+    100054: Cube_11
+    100056: Cube_11_2
+    100058: Cube_12
+    100060: Cube_13
+    100062: Cube_14
+    100064: Cube_15
+    100066: Cube_16
+    100068: Cube_17
+    100070: Cube_18
+    100072: Cube_1_2
+    100074: Cube_1_3
+    100076: Cube_1_4
+    100078: Cube_2
+    100080: Cube_2_2
+    100082: Cube_2_3
+    100084: Cube_2_4
+    100086: Cube_3
+    100088: Cube_3_2
+    100090: Cube_3_3
+    100092: Cube_3_4
+    100094: Cube_4
+    100096: Cube_4_2
+    100098: Cube_4_3
+    100100: Cube_4_4
+    100102: Cube_5
+    100104: Cube_5_2
+    100106: Cube_5_3
+    100108: Cube_5_4
+    100110: Cube_6
+    100112: Cube_6_2
+    100114: Cube_6_3
+    100116: Cube_6_4
+    100118: Cube_6_5
+    100120: Cube_7
+    100122: Cube_7_2
+    100124: Cube_7_3
+    100126: Cube_7_4
+    100128: Cube_7_5
+    100130: Cube_8
+    100132: Cube_9
+    100134: Cube_9_2
+    100136: Cube_copies
+    100138: Cylinder
+    100140: Cylinder_1
+    100142: Cylinder_10
+    100144: Cylinder_10_2
+    100146: Cylinder_10_3
+    100148: Cylinder_10_4
+    100150: Cylinder_10_5
+    100152: Cylinder_11
+    100154: Cylinder_11_10
+    100156: Cylinder_11_11
+    100158: Cylinder_11_12
+    100160: Cylinder_11_13
+    100162: Cylinder_11_2
+    100164: Cylinder_11_3
+    100166: Cylinder_11_4
+    100168: Cylinder_11_5
+    100170: Cylinder_11_6
+    100172: Cylinder_11_7
+    100174: Cylinder_11_8
+    100176: Cylinder_11_9
+    100178: Cylinder_12
+    100180: Cylinder_12_10
+    100182: Cylinder_12_11
+    100184: Cylinder_12_12
+    100186: Cylinder_12_13
+    100188: Cylinder_12_2
+    100190: Cylinder_12_3
+    100192: Cylinder_12_4
+    100194: Cylinder_12_5
+    100196: Cylinder_12_6
+    100198: Cylinder_12_7
+    100200: Cylinder_12_8
+    100202: Cylinder_12_9
+    100204: Cylinder_13
+    100206: Cylinder_13_10
+    100208: Cylinder_13_11
+    100210: Cylinder_13_12
+    100212: Cylinder_13_13
+    100214: Cylinder_13_2
+    100216: Cylinder_13_3
+    100218: Cylinder_13_4
+    100220: Cylinder_13_5
+    100222: Cylinder_13_6
+    100224: Cylinder_13_7
+    100226: Cylinder_13_8
+    100228: Cylinder_13_9
+    100230: Cylinder_14
+    100232: Cylinder_14_2
+    100234: Cylinder_14_3
+    100236: Cylinder_15
+    100238: Cylinder_15_2
+    100240: Cylinder_15_3
+    100242: Cylinder_16
+    100244: Cylinder_16_2
+    100246: Cylinder_16_3
+    100248: Cylinder_17
+    100250: Cylinder_17_2
+    100252: Cylinder_18
+    100254: Cylinder_18_2
+    100256: Cylinder_19
+    100258: Cylinder_1_2
+    100260: Cylinder_1_3
+    100262: Cylinder_1_4
+    100264: Cylinder_1_5
+    100266: Cylinder_2
+    100268: Cylinder_20
+    100270: Cylinder_21
+    100272: Cylinder_22
+    100274: Cylinder_23
+    100276: Cylinder_24
+    100278: Cylinder_25
+    100280: Cylinder_26
+    100282: Cylinder_27
+    100284: Cylinder_28
+    100286: Cylinder_29
+    100288: Cylinder_2_0
+    100290: Cylinder_2_0_2
+    100292: Cylinder_2_1
+    100294: Cylinder_2_10
+    100296: Cylinder_2_11
+    100298: Cylinder_2_12
+    100300: Cylinder_2_13
+    100302: Cylinder_2_14
+    100304: Cylinder_2_1_2
+    100306: Cylinder_2_2
+    100308: Cylinder_2_2_2
+    100310: Cylinder_2_2_3
+    100312: Cylinder_2_3
+    100314: Cylinder_2_3_2
+    100316: Cylinder_2_3_3
+    100318: Cylinder_2_4
+    100320: Cylinder_2_4_2
+    100322: Cylinder_2_4_3
+    100324: Cylinder_2_5
+    100326: Cylinder_2_5_2
+    100328: Cylinder_2_5_3
+    100330: Cylinder_2_6
+    100332: Cylinder_2_6_2
+    100334: Cylinder_2_6_3
+    100336: Cylinder_2_7
+    100338: Cylinder_2_8
+    100340: Cylinder_2_9
+    100342: Cylinder_2_copies
+    100344: Cylinder_2_copies_2
+    100346: Cylinder_3
+    100348: Cylinder_3_2
+    100350: Cylinder_3_3
+    100352: Cylinder_3_4
+    100354: Cylinder_3_5
+    100356: Cylinder_3_6
+    100358: Cylinder_3_7
+    100360: Cylinder_3_8
+    100362: Cylinder_3_9
+    100364: Cylinder_4
+    100366: Cylinder_4_2
+    100368: Cylinder_4_3
+    100370: Cylinder_4_4
+    100372: Cylinder_5
+    100374: Cylinder_5_2
+    100376: Cylinder_5_3
+    100378: Cylinder_5_4
+    100380: Cylinder_5_5
+    100382: Cylinder_5_6
+    100384: Cylinder_5_7
+    100386: Cylinder_6
+    100388: Cylinder_6_2
+    100390: Cylinder_6_3
+    100392: Cylinder_7
+    100394: Cylinder_7_2
+    100396: Cylinder_7_3
+    100398: Cylinder_8
+    100400: Cylinder_8_2
+    100402: Cylinder_8_3
+    100404: Cylinder_9
+    100406: Cylinder_9_2
+    100408: Cylinder_9_3
+    100410: left_arm_
+    100412: MoText
+    100414: Null_1
+    100416: Null_10
+    100418: Null_11
+    100420: Null_12
+    100422: Null_13
+    100424: Null_14
+    100426: Null_14_2
+    100428: Null_1_2
+    100430: Null_1_3
+    100432: Null_2
+    100434: Null_2_2
+    100436: Null_2_3
+    100438: Null_2_4
+    100440: Null_2_5
+    100442: Null_3
+    100444: Null_3_2
+    100446: Null_4
+    100448: Null_4_2
+    100450: Null_5
+    100452: Null_5_2
+    100454: Null_5_3
+    100456: Null_5_4
+    100458: Null_6
+    100460: Null_6_2
+    100462: Null_6_3
+    100464: Null_6_4
+    100466: Null_7
+    100468: Null_7_2
+    100470: Null_7_3
+    100472: Null_7_4
+    100474: Null_8
+    100476: Null_8_2
+    100478: Null_8_3
+    100480: Null_9
+    100482: Null_9_2
+    100484: right_arm
+    100486: ROBOT
+    100488: Sky
+    100490: Sphere
+    100492: Sweep_NURBS_1
+    100494: Sweep_NURBS_1_2
+    100496: Sweep_NURBS_1_3
+    100498: Sweep_NURBS_1_4
+    100500: Symmetry
+    100502: Symmetry_1
+    100504: Symmetry_1_2
+    100506: Symmetry_1_3
+    100508: Symmetry_1_4
+    100510: Symmetry_2
+    100512: Symmetry_2_2
+    100514: //RootNode
+    400000: arm
+    400002: arm_2
+    400004: Boole
+    400006: Boole_1
+    400008: Boole_1_2
+    400010: Boole_1_3
+    400012: Boole_1_4
+    400014: Boole_1_5
+    400016: Boole_1_6
+    400018: Boole_1_7
+    400020: Boole_1_8
+    400022: Boole_2
+    400024: Boole_2_2
+    400026: Boole_2_3
+    400028: Boole_2_4
+    400030: Boole_2_5
+    400032: Boole_3
+    400034: Boole_3_2
+    400036: Boole_3_3
+    400038: Boole_3_4
+    400040: Boole_4
+    400042: Boole_4_2
+    400044: Cube
+    400046: Cube_0
+    400048: Cube_1
+    400050: Cube_10
+    400052: Cube_10_2
+    400054: Cube_11
+    400056: Cube_11_2
+    400058: Cube_12
+    400060: Cube_13
+    400062: Cube_14
+    400064: Cube_15
+    400066: Cube_16
+    400068: Cube_17
+    400070: Cube_18
+    400072: Cube_1_2
+    400074: Cube_1_3
+    400076: Cube_1_4
+    400078: Cube_2
+    400080: Cube_2_2
+    400082: Cube_2_3
+    400084: Cube_2_4
+    400086: Cube_3
+    400088: Cube_3_2
+    400090: Cube_3_3
+    400092: Cube_3_4
+    400094: Cube_4
+    400096: Cube_4_2
+    400098: Cube_4_3
+    400100: Cube_4_4
+    400102: Cube_5
+    400104: Cube_5_2
+    400106: Cube_5_3
+    400108: Cube_5_4
+    400110: Cube_6
+    400112: Cube_6_2
+    400114: Cube_6_3
+    400116: Cube_6_4
+    400118: Cube_6_5
+    400120: Cube_7
+    400122: Cube_7_2
+    400124: Cube_7_3
+    400126: Cube_7_4
+    400128: Cube_7_5
+    400130: Cube_8
+    400132: Cube_9
+    400134: Cube_9_2
+    400136: Cube_copies
+    400138: Cylinder
+    400140: Cylinder_1
+    400142: Cylinder_10
+    400144: Cylinder_10_2
+    400146: Cylinder_10_3
+    400148: Cylinder_10_4
+    400150: Cylinder_10_5
+    400152: Cylinder_11
+    400154: Cylinder_11_10
+    400156: Cylinder_11_11
+    400158: Cylinder_11_12
+    400160: Cylinder_11_13
+    400162: Cylinder_11_2
+    400164: Cylinder_11_3
+    400166: Cylinder_11_4
+    400168: Cylinder_11_5
+    400170: Cylinder_11_6
+    400172: Cylinder_11_7
+    400174: Cylinder_11_8
+    400176: Cylinder_11_9
+    400178: Cylinder_12
+    400180: Cylinder_12_10
+    400182: Cylinder_12_11
+    400184: Cylinder_12_12
+    400186: Cylinder_12_13
+    400188: Cylinder_12_2
+    400190: Cylinder_12_3
+    400192: Cylinder_12_4
+    400194: Cylinder_12_5
+    400196: Cylinder_12_6
+    400198: Cylinder_12_7
+    400200: Cylinder_12_8
+    400202: Cylinder_12_9
+    400204: Cylinder_13
+    400206: Cylinder_13_10
+    400208: Cylinder_13_11
+    400210: Cylinder_13_12
+    400212: Cylinder_13_13
+    400214: Cylinder_13_2
+    400216: Cylinder_13_3
+    400218: Cylinder_13_4
+    400220: Cylinder_13_5
+    400222: Cylinder_13_6
+    400224: Cylinder_13_7
+    400226: Cylinder_13_8
+    400228: Cylinder_13_9
+    400230: Cylinder_14
+    400232: Cylinder_14_2
+    400234: Cylinder_14_3
+    400236: Cylinder_15
+    400238: Cylinder_15_2
+    400240: Cylinder_15_3
+    400242: Cylinder_16
+    400244: Cylinder_16_2
+    400246: Cylinder_16_3
+    400248: Cylinder_17
+    400250: Cylinder_17_2
+    400252: Cylinder_18
+    400254: Cylinder_18_2
+    400256: Cylinder_19
+    400258: Cylinder_1_2
+    400260: Cylinder_1_3
+    400262: Cylinder_1_4
+    400264: Cylinder_1_5
+    400266: Cylinder_2
+    400268: Cylinder_20
+    400270: Cylinder_21
+    400272: Cylinder_22
+    400274: Cylinder_23
+    400276: Cylinder_24
+    400278: Cylinder_25
+    400280: Cylinder_26
+    400282: Cylinder_27
+    400284: Cylinder_28
+    400286: Cylinder_29
+    400288: Cylinder_2_0
+    400290: Cylinder_2_0_2
+    400292: Cylinder_2_1
+    400294: Cylinder_2_10
+    400296: Cylinder_2_11
+    400298: Cylinder_2_12
+    400300: Cylinder_2_13
+    400302: Cylinder_2_14
+    400304: Cylinder_2_1_2
+    400306: Cylinder_2_2
+    400308: Cylinder_2_2_2
+    400310: Cylinder_2_2_3
+    400312: Cylinder_2_3
+    400314: Cylinder_2_3_2
+    400316: Cylinder_2_3_3
+    400318: Cylinder_2_4
+    400320: Cylinder_2_4_2
+    400322: Cylinder_2_4_3
+    400324: Cylinder_2_5
+    400326: Cylinder_2_5_2
+    400328: Cylinder_2_5_3
+    400330: Cylinder_2_6
+    400332: Cylinder_2_6_2
+    400334: Cylinder_2_6_3
+    400336: Cylinder_2_7
+    400338: Cylinder_2_8
+    400340: Cylinder_2_9
+    400342: Cylinder_2_copies
+    400344: Cylinder_2_copies_2
+    400346: Cylinder_3
+    400348: Cylinder_3_2
+    400350: Cylinder_3_3
+    400352: Cylinder_3_4
+    400354: Cylinder_3_5
+    400356: Cylinder_3_6
+    400358: Cylinder_3_7
+    400360: Cylinder_3_8
+    400362: Cylinder_3_9
+    400364: Cylinder_4
+    400366: Cylinder_4_2
+    400368: Cylinder_4_3
+    400370: Cylinder_4_4
+    400372: Cylinder_5
+    400374: Cylinder_5_2
+    400376: Cylinder_5_3
+    400378: Cylinder_5_4
+    400380: Cylinder_5_5
+    400382: Cylinder_5_6
+    400384: Cylinder_5_7
+    400386: Cylinder_6
+    400388: Cylinder_6_2
+    400390: Cylinder_6_3
+    400392: Cylinder_7
+    400394: Cylinder_7_2
+    400396: Cylinder_7_3
+    400398: Cylinder_8
+    400400: Cylinder_8_2
+    400402: Cylinder_8_3
+    400404: Cylinder_9
+    400406: Cylinder_9_2
+    400408: Cylinder_9_3
+    400410: left_arm_
+    400412: MoText
+    400414: Null_1
+    400416: Null_10
+    400418: Null_11
+    400420: Null_12
+    400422: Null_13
+    400424: Null_14
+    400426: Null_14_2
+    400428: Null_1_2
+    400430: Null_1_3
+    400432: Null_2
+    400434: Null_2_2
+    400436: Null_2_3
+    400438: Null_2_4
+    400440: Null_2_5
+    400442: Null_3
+    400444: Null_3_2
+    400446: Null_4
+    400448: Null_4_2
+    400450: Null_5
+    400452: Null_5_2
+    400454: Null_5_3
+    400456: Null_5_4
+    400458: Null_6
+    400460: Null_6_2
+    400462: Null_6_3
+    400464: Null_6_4
+    400466: Null_7
+    400468: Null_7_2
+    400470: Null_7_3
+    400472: Null_7_4
+    400474: Null_8
+    400476: Null_8_2
+    400478: Null_8_3
+    400480: Null_9
+    400482: Null_9_2
+    400484: right_arm
+    400486: ROBOT
+    400488: Sky
+    400490: Sphere
+    400492: Sweep_NURBS_1
+    400494: Sweep_NURBS_1_2
+    400496: Sweep_NURBS_1_3
+    400498: Sweep_NURBS_1_4
+    400500: Symmetry
+    400502: Symmetry_1
+    400504: Symmetry_1_2
+    400506: Symmetry_1_3
+    400508: Symmetry_1_4
+    400510: Symmetry_2
+    400512: Symmetry_2_2
+    400514: //RootNode
+    2300000: arm
+    2300002: arm_2
+    2300004: Boole_1
+    2300006: Boole_1_2
+    2300008: Boole_1_3
+    2300010: Boole_1_4
+    2300012: Boole_1_5
+    2300014: Boole_2
+    2300016: Boole_2_2
+    2300018: Boole_2_3
+    2300020: Boole_2_4
+    2300022: Boole_2_5
+    2300024: Boole_3
+    2300026: Boole_3_2
+    2300028: Boole_3_3
+    2300030: Boole_3_4
+    2300032: Boole_4
+    2300034: Boole_4_2
+    2300036: Cube
+    2300038: Cube_0
+    2300040: Cube_1
+    2300042: Cube_10
+    2300044: Cube_10_2
+    2300046: Cube_11
+    2300048: Cube_11_2
+    2300050: Cube_12
+    2300052: Cube_13
+    2300054: Cube_1_2
+    2300056: Cube_1_3
+    2300058: Cube_1_4
+    2300060: Cube_2
+    2300062: Cube_2_2
+    2300064: Cube_2_3
+    2300066: Cube_2_4
+    2300068: Cube_3
+    2300070: Cube_3_2
+    2300072: Cube_3_3
+    2300074: Cube_3_4
+    2300076: Cube_4
+    2300078: Cube_4_2
+    2300080: Cube_4_3
+    2300082: Cube_4_4
+    2300084: Cube_5
+    2300086: Cube_5_2
+    2300088: Cube_5_3
+    2300090: Cube_5_4
+    2300092: Cube_6
+    2300094: Cube_6_2
+    2300096: Cube_6_3
+    2300098: Cube_6_4
+    2300100: Cube_6_5
+    2300102: Cube_7
+    2300104: Cube_7_2
+    2300106: Cube_7_3
+    2300108: Cube_7_4
+    2300110: Cube_8
+    2300112: Cube_9
+    2300114: Cube_9_2
+    2300116: Cylinder
+    2300118: Cylinder_1
+    2300120: Cylinder_10
+    2300122: Cylinder_10_2
+    2300124: Cylinder_10_3
+    2300126: Cylinder_10_4
+    2300128: Cylinder_10_5
+    2300130: Cylinder_11
+    2300132: Cylinder_11_10
+    2300134: Cylinder_11_11
+    2300136: Cylinder_11_12
+    2300138: Cylinder_11_13
+    2300140: Cylinder_11_2
+    2300142: Cylinder_11_3
+    2300144: Cylinder_11_4
+    2300146: Cylinder_11_5
+    2300148: Cylinder_11_6
+    2300150: Cylinder_11_7
+    2300152: Cylinder_11_8
+    2300154: Cylinder_11_9
+    2300156: Cylinder_12
+    2300158: Cylinder_12_10
+    2300160: Cylinder_12_11
+    2300162: Cylinder_12_12
+    2300164: Cylinder_12_13
+    2300166: Cylinder_12_2
+    2300168: Cylinder_12_3
+    2300170: Cylinder_12_4
+    2300172: Cylinder_12_5
+    2300174: Cylinder_12_6
+    2300176: Cylinder_12_7
+    2300178: Cylinder_12_8
+    2300180: Cylinder_12_9
+    2300182: Cylinder_13
+    2300184: Cylinder_13_10
+    2300186: Cylinder_13_11
+    2300188: Cylinder_13_12
+    2300190: Cylinder_13_13
+    2300192: Cylinder_13_2
+    2300194: Cylinder_13_3
+    2300196: Cylinder_13_4
+    2300198: Cylinder_13_5
+    2300200: Cylinder_13_6
+    2300202: Cylinder_13_7
+    2300204: Cylinder_13_8
+    2300206: Cylinder_13_9
+    2300208: Cylinder_14
+    2300210: Cylinder_14_2
+    2300212: Cylinder_14_3
+    2300214: Cylinder_15
+    2300216: Cylinder_15_2
+    2300218: Cylinder_15_3
+    2300220: Cylinder_16
+    2300222: Cylinder_16_2
+    2300224: Cylinder_16_3
+    2300226: Cylinder_17
+    2300228: Cylinder_18
+    2300230: Cylinder_1_2
+    2300232: Cylinder_1_3
+    2300234: Cylinder_1_4
+    2300236: Cylinder_2
+    2300238: Cylinder_2_0
+    2300240: Cylinder_2_1
+    2300242: Cylinder_2_10
+    2300244: Cylinder_2_11
+    2300246: Cylinder_2_12
+    2300248: Cylinder_2_13
+    2300250: Cylinder_2_2
+    2300252: Cylinder_2_2_2
+    2300254: Cylinder_2_3
+    2300256: Cylinder_2_3_2
+    2300258: Cylinder_2_4
+    2300260: Cylinder_2_4_2
+    2300262: Cylinder_2_5
+    2300264: Cylinder_2_5_2
+    2300266: Cylinder_2_6
+    2300268: Cylinder_2_6_2
+    2300270: Cylinder_2_7
+    2300272: Cylinder_2_9
+    2300274: Cylinder_3
+    2300276: Cylinder_3_2
+    2300278: Cylinder_3_3
+    2300280: Cylinder_3_5
+    2300282: Cylinder_3_7
+    2300284: Cylinder_3_8
+    2300286: Cylinder_4
+    2300288: Cylinder_4_2
+    2300290: Cylinder_4_3
+    2300292: Cylinder_5
+    2300294: Cylinder_5_2
+    2300296: Cylinder_5_3
+    2300298: Cylinder_5_4
+    2300300: Cylinder_5_5
+    2300302: Cylinder_5_6
+    2300304: Cylinder_6
+    2300306: Cylinder_6_2
+    2300308: Cylinder_6_3
+    2300310: Cylinder_7
+    2300312: Cylinder_7_2
+    2300314: Cylinder_7_3
+    2300316: Cylinder_8
+    2300318: Cylinder_8_2
+    2300320: Cylinder_8_3
+    2300322: Cylinder_9
+    2300324: Cylinder_9_2
+    2300326: Cylinder_9_3
+    2300328: left_arm_
+    2300330: MoText
+    2300332: right_arm
+    2300334: Sphere
+    2300336: Sweep_NURBS_1
+    2300338: Sweep_NURBS_1_3
+    3300000: arm
+    3300002: arm_2
+    3300004: Boole_1
+    3300006: Boole_1_2
+    3300008: Boole_1_3
+    3300010: Boole_1_4
+    3300012: Boole_1_5
+    3300014: Boole_2
+    3300016: Boole_2_2
+    3300018: Boole_2_3
+    3300020: Boole_2_4
+    3300022: Boole_2_5
+    3300024: Boole_3
+    3300026: Boole_3_2
+    3300028: Boole_3_3
+    3300030: Boole_3_4
+    3300032: Boole_4
+    3300034: Boole_4_2
+    3300036: Cube
+    3300038: Cube_0
+    3300040: Cube_1
+    3300042: Cube_10
+    3300044: Cube_10_2
+    3300046: Cube_11
+    3300048: Cube_11_2
+    3300050: Cube_12
+    3300052: Cube_13
+    3300054: Cube_1_2
+    3300056: Cube_1_3
+    3300058: Cube_1_4
+    3300060: Cube_2
+    3300062: Cube_2_2
+    3300064: Cube_2_3
+    3300066: Cube_2_4
+    3300068: Cube_3
+    3300070: Cube_3_2
+    3300072: Cube_3_3
+    3300074: Cube_3_4
+    3300076: Cube_4
+    3300078: Cube_4_2
+    3300080: Cube_4_3
+    3300082: Cube_4_4
+    3300084: Cube_5
+    3300086: Cube_5_2
+    3300088: Cube_5_3
+    3300090: Cube_5_4
+    3300092: Cube_6
+    3300094: Cube_6_2
+    3300096: Cube_6_3
+    3300098: Cube_6_4
+    3300100: Cube_6_5
+    3300102: Cube_7
+    3300104: Cube_7_2
+    3300106: Cube_7_3
+    3300108: Cube_7_4
+    3300110: Cube_8
+    3300112: Cube_9
+    3300114: Cube_9_2
+    3300116: Cylinder
+    3300118: Cylinder_1
+    3300120: Cylinder_10
+    3300122: Cylinder_10_2
+    3300124: Cylinder_10_3
+    3300126: Cylinder_10_4
+    3300128: Cylinder_10_5
+    3300130: Cylinder_11
+    3300132: Cylinder_11_10
+    3300134: Cylinder_11_11
+    3300136: Cylinder_11_12
+    3300138: Cylinder_11_13
+    3300140: Cylinder_11_2
+    3300142: Cylinder_11_3
+    3300144: Cylinder_11_4
+    3300146: Cylinder_11_5
+    3300148: Cylinder_11_6
+    3300150: Cylinder_11_7
+    3300152: Cylinder_11_8
+    3300154: Cylinder_11_9
+    3300156: Cylinder_12
+    3300158: Cylinder_12_10
+    3300160: Cylinder_12_11
+    3300162: Cylinder_12_12
+    3300164: Cylinder_12_13
+    3300166: Cylinder_12_2
+    3300168: Cylinder_12_3
+    3300170: Cylinder_12_4
+    3300172: Cylinder_12_5
+    3300174: Cylinder_12_6
+    3300176: Cylinder_12_7
+    3300178: Cylinder_12_8
+    3300180: Cylinder_12_9
+    3300182: Cylinder_13
+    3300184: Cylinder_13_10
+    3300186: Cylinder_13_11
+    3300188: Cylinder_13_12
+    3300190: Cylinder_13_13
+    3300192: Cylinder_13_2
+    3300194: Cylinder_13_3
+    3300196: Cylinder_13_4
+    3300198: Cylinder_13_5
+    3300200: Cylinder_13_6
+    3300202: Cylinder_13_7
+    3300204: Cylinder_13_8
+    3300206: Cylinder_13_9
+    3300208: Cylinder_14
+    3300210: Cylinder_14_2
+    3300212: Cylinder_14_3
+    3300214: Cylinder_15
+    3300216: Cylinder_15_2
+    3300218: Cylinder_15_3
+    3300220: Cylinder_16
+    3300222: Cylinder_16_2
+    3300224: Cylinder_16_3
+    3300226: Cylinder_17
+    3300228: Cylinder_18
+    3300230: Cylinder_1_2
+    3300232: Cylinder_1_3
+    3300234: Cylinder_1_4
+    3300236: Cylinder_2
+    3300238: Cylinder_2_0
+    3300240: Cylinder_2_1
+    3300242: Cylinder_2_10
+    3300244: Cylinder_2_11
+    3300246: Cylinder_2_12
+    3300248: Cylinder_2_13
+    3300250: Cylinder_2_2
+    3300252: Cylinder_2_2_2
+    3300254: Cylinder_2_3
+    3300256: Cylinder_2_3_2
+    3300258: Cylinder_2_4
+    3300260: Cylinder_2_4_2
+    3300262: Cylinder_2_5
+    3300264: Cylinder_2_5_2
+    3300266: Cylinder_2_6
+    3300268: Cylinder_2_6_2
+    3300270: Cylinder_2_7
+    3300272: Cylinder_2_9
+    3300274: Cylinder_3
+    3300276: Cylinder_3_2
+    3300278: Cylinder_3_3
+    3300280: Cylinder_3_5
+    3300282: Cylinder_3_7
+    3300284: Cylinder_3_8
+    3300286: Cylinder_4
+    3300288: Cylinder_4_2
+    3300290: Cylinder_4_3
+    3300292: Cylinder_5
+    3300294: Cylinder_5_2
+    3300296: Cylinder_5_3
+    3300298: Cylinder_5_4
+    3300300: Cylinder_5_5
+    3300302: Cylinder_5_6
+    3300304: Cylinder_6
+    3300306: Cylinder_6_2
+    3300308: Cylinder_6_3
+    3300310: Cylinder_7
+    3300312: Cylinder_7_2
+    3300314: Cylinder_7_3
+    3300316: Cylinder_8
+    3300318: Cylinder_8_2
+    3300320: Cylinder_8_3
+    3300322: Cylinder_9
+    3300324: Cylinder_9_2
+    3300326: Cylinder_9_3
+    3300328: left_arm_
+    3300330: MoText
+    3300332: right_arm
+    3300334: Sphere
+    3300336: Sweep_NURBS_1
+    3300338: Sweep_NURBS_1_3
+    4300000: Cube
+    4300002: Boole_4
+    4300004: Cylinder_4
+    4300006: MoText
+    4300008: Cube_3
+    4300010: Sphere
+    4300012: Boole_3
+    4300014: Cylinder_3
+    4300016: Cylinder_2
+    4300018: Cylinder_1
+    4300020: Cylinder_1_2
+    4300022: Cylinder
+    4300024: Cube_11
+    4300026: Cube_10
+    4300028: Cube_9
+    4300030: Cube_7
+    4300032: Cube_6
+    4300034: Cube_5
+    4300036: Cube_4
+    4300038: Cube_2
+    4300040: Cube_2_2
+    4300042: Cube_1
+    4300044: Boole_2
+    4300046: Boole_1
+    4300048: Cylinder_2_2
+    4300050: Cube_1_2
+    4300052: Sweep_NURBS_1
+    4300054: Sweep_NURBS_1_3
+    4300056: right_arm
+    4300058: Cylinder_5
+    4300060: arm
+    4300062: Cylinder_5_2
+    4300064: Cylinder_8
+    4300066: Cylinder_6
+    4300068: Cylinder_7
+    4300070: Cube_6_2
+    4300072: Cylinder_9
+    4300074: Boole_2_2
+    4300076: Boole_2_3
+    4300078: Boole_3_2
+    4300080: Cylinder_10
+    4300082: Cylinder_10_2
+    4300084: Cube_7_2
+    4300086: Cylinder_12
+    4300088: Cylinder_13
+    4300090: Cylinder_11
+    4300092: Cylinder_12_2
+    4300094: Cylinder_13_2
+    4300096: Cylinder_11_2
+    4300098: Cylinder_15
+    4300100: Cylinder_16
+    4300102: Cylinder_12_3
+    4300104: Cylinder_13_3
+    4300106: Cylinder_11_3
+    4300108: Cylinder_12_4
+    4300110: Cylinder_13_4
+    4300112: Cylinder_11_4
+    4300114: Cylinder_12_5
+    4300116: Cylinder_14
+    4300118: Cylinder_12_6
+    4300120: Cylinder_13_5
+    4300122: Cylinder_11_5
+    4300124: Cylinder_13_6
+    4300126: Cylinder_11_6
+    4300128: left_arm_
+    4300130: Cylinder_5_3
+    4300132: arm_2
+    4300134: Cylinder_5_4
+    4300136: Cylinder_8_2
+    4300138: Cylinder_6_2
+    4300140: Cylinder_7_2
+    4300142: Cube_6_3
+    4300144: Cylinder_9_2
+    4300146: Boole_3_3
+    4300148: Boole_3_4
+    4300150: Boole_2_4
+    4300152: Cylinder_10_3
+    4300154: Cylinder_10_4
+    4300156: Cube_7_3
+    4300158: Cylinder_18
+    4300160: Cylinder_17
+    4300162: Cylinder_16_2
+    4300164: Cylinder_15_2
+    4300166: Cylinder_14_2
+    4300168: Cylinder_12_7
+    4300170: Cylinder_11_7
+    4300172: Cylinder_13_7
+    4300174: Cylinder_12_8
+    4300176: Cylinder_13_8
+    4300178: Cylinder_11_8
+    4300180: Cylinder_11_9
+    4300182: Cylinder_13_9
+    4300184: Cylinder_12_9
+    4300186: Cylinder_11_10
+    4300188: Cylinder_13_10
+    4300190: Cylinder_12_10
+    4300192: Cylinder_11_11
+    4300194: Cylinder_13_11
+    4300196: Cylinder_12_11
+    4300198: Cylinder_11_12
+    4300200: Cylinder_13_12
+    4300202: Cylinder_12_12
+    4300204: Boole_1_2
+    4300206: Cylinder_3_2
+    4300208: Cylinder_2_3
+    4300210: Cube_3_2
+    4300212: Cube_5_2
+    4300214: Cube_4_2
+    4300216: Cube_3_3
+    4300218: Cube_2_3
+    4300220: Cube_1_3
+    4300222: Cylinder_3_3
+    4300224: Cylinder_2_4
+    4300226: Cylinder_3_5
+    4300228: Cylinder_2_5
+    4300230: Cube_4_3
+    4300232: Cylinder_2_6
+    4300234: Boole_4_2
+    4300236: Boole_2_5
+    4300238: Cylinder_2_7
+    4300240: Cylinder_2_0
+    4300242: Cylinder_2_1
+    4300244: Cylinder_2_2_2
+    4300246: Cylinder_2_3_2
+    4300248: Cylinder_2_4_2
+    4300250: Cylinder_2_5_2
+    4300252: Cylinder_2_6_2
+    4300254: Cube_5_3
+    4300256: Cube_0
+    4300258: Cube_1_4
+    4300260: Cube_2_4
+    4300262: Cube_3_4
+    4300264: Cube_4_4
+    4300266: Cube_5_4
+    4300268: Cube_6_4
+    4300270: Cube_7_4
+    4300272: Cube_6_5
+    4300274: Cube_8
+    4300276: Cylinder_2_9
+    4300278: Cylinder_2_10
+    4300280: Cylinder_2_11
+    4300282: Cylinder_2_12
+    4300284: Cylinder_1_3
+    4300286: Cylinder_3_7
+    4300288: Boole_1_3
+    4300290: Cylinder_5_5
+    4300292: Cylinder_3_8
+    4300294: Cylinder_4_2
+    4300296: Cylinder_2_13
+    4300298: Cube_9_2
+    4300300: Cylinder_1_4
+    4300302: Cylinder_4_3
+    4300304: Cylinder_5_6
+    4300306: Cylinder_6_3
+    4300308: Cylinder_7_3
+    4300310: Boole_1_4
+    4300312: Cube_10_2
+    4300314: Cube_11_2
+    4300316: Cylinder_8_3
+    4300318: Cylinder_9_3
+    4300320: Cylinder_10_5
+    4300322: Cube_12
+    4300324: Cylinder_11_13
+    4300326: Cylinder_12_13
+    4300328: Cylinder_13_13
+    4300330: Cube_13
+    4300332: Cylinder_14_3
+    4300334: Cylinder_15_3
+    4300336: Cylinder_16_3
+    4300338: Boole_1_5
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationImportErrors: 'MuscleClip ''the model fbx'' conversion failed: Required
+      human bone ''RightUpperArm'' not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: ROBOT
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder_5_3
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Null_3_2
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder_9_2
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Null_4_2
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder_13_8
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Null_5_4
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder_6
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cube_7_2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder_12
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder_13
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder_12_3
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder_13_3
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder_11_3
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder_11_8
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder_14_3
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder_11
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: the model fbx(Clone)
+      position: {x: .115234971, y: -.167246222, z: .535164416}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole
+      position: {x: -.0986800268, y: -.0660270229, z: .0635258928}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube
+      position: {x: -.0613638274, y: -.0218944885, z: -.344195575}
+      rotation: {x: 2.77555756e-17, y: 1.38777878e-17, z: 2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_1
+      position: {x: -.0986800268, y: -.0660270229, z: .0635258928}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_2
+      position: {x: -.0986800268, y: -.0660270229, z: .0635258928}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_3
+      position: {x: -.0986800268, y: -.0660270229, z: .0635258928}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_4
+      position: {x: -.0986800268, y: -.00916347373, z: -.0622759424}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_1
+      position: {x: -.184466645, y: -.139042422, z: .0644565001}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_2
+      position: {x: -.097862117, y: -.0691123307, z: .0588984601}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_2_2
+      position: {x: -.184466645, y: -.139042422, z: .0644565001}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_3
+      position: {x: .131901637, y: .0739848688, z: .0144552756}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_4
+      position: {x: .132408008, y: .0592316948, z: -.01647323}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_5
+      position: {x: .132408008, y: .0592316948, z: -.01647323}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_6
+      position: {x: .084121868, y: .0328725055, z: -.00647610007}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_7
+      position: {x: .084121868, y: .0328725055, z: -.00647610007}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_9
+      position: {x: .221334055, y: .123174101, z: -.0300738495}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_10
+      position: {x: .095215328, y: .0390181765, z: -.00365587859}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_11
+      position: {x: -.0986800268, y: -.0660270229, z: .0635258928}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder
+      position: {x: .0959191397, y: .0768849477, z: .0367689468}
+      rotation: {x: -.232589826, y: -.220946699, z: -.428603977, w: .844620109}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_1
+      position: {x: .0313919932, y: .0308247004, z: .0486780107}
+      rotation: {x: -.0187601894, y: -.630790472, z: .434776336, w: .642433643}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_1_2
+      position: {x: .0959191397, y: .0768849477, z: .0367689468}
+      rotation: {x: -.232589826, y: -.220946699, z: -.428603977, w: .844620109}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2
+      position: {x: .0313919932, y: .0308247004, z: .0486780107}
+      rotation: {x: -.0187601894, y: -.630790472, z: .434776336, w: .642433643}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_3
+      position: {x: .0313919932, y: .0308247004, z: .0486780107}
+      rotation: {x: -.0187601894, y: -.630790472, z: .434776336, w: .642433643}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_4
+      position: {x: -.197321028, y: -.132988304, z: .0830339789}
+      rotation: {x: .844620168, y: -.428604007, z: .220946714, w: .232589841}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MoText
+      position: {x: .0404975563, y: -.176013336, z: .122359179}
+      rotation: {x: .409843802, y: .213829637, z: .20218651, w: .863380313}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ROBOT
+      position: {x: .0706121102, y: .138616025, z: -.301126271}
+      rotation: {x: .0269077774, y: -.706594646, z: -.0269077774, w: .706594646}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_1_2
+      position: {x: -.095461756, y: .0589028522, z: -.00769158872}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_2
+      position: {x: -.0445195995, y: .292250812, z: -.00769158872}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: left_arm_
+      position: {x: .0898144618, y: .343132138, z: .0970441401}
+      rotation: {x: 5.39699582e-17, y: -1.37299144e-16, z: -.408885062, w: .912585914}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_5_3
+      position: {x: .0544995517, y: -.106783569, z: .052006688}
+      rotation: {x: .707106829, y: 4.90653926e-18, z: -1.22663487e-16, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arm_2
+      position: {x: .121546514, y: .0215890259, z: -.0654676259}
+      rotation: {x: 1.22780589e-16, y: -.175333917, z: 1.99674038e-18, w: .984509051}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_14_2
+      position: {x: -.0914715901, y: -.0215890259, z: .103404604}
+      rotation: {x: -1.23259516e-32, y: 2.77555756e-17, z: 2.46519033e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_5_4
+      position: {x: .0914715901, y: 2.22044592e-17, z: -.103404604}
+      rotation: {x: -1.23259516e-32, y: 2.77555756e-17, z: 2.46519033e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_8_2
+      position: {x: .119001873, y: .0275323614, z: .00412011473}
+      rotation: {x: -.707106829, y: -2.15887721e-16, z: 2.15887721e-16, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_6_2
+      position: {x: .0914715901, y: 2.22044592e-17, z: -.103404604}
+      rotation: {x: 8.85436462e-18, y: -.00135851698, z: 1.50781672e-16, w: .999999106}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_7_2
+      position: {x: .119001873, y: .0275323614, z: .00412011473}
+      rotation: {x: -.707106829, y: -4.66121238e-17, z: -3.18925077e-17, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_6_3
+      position: {x: 6.03961332e-16, y: 7.1054272e-17, z: 1.3322676e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_9_2
+      position: {x: 3.01980666e-16, y: 2.13162816e-16, z: 3.10862448e-17}
+      rotation: {x: -4.54156732e-18, y: .155694321, z: 2.88140525e-17, w: .987805307}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_2_4
+      position: {x: .0821928829, y: -.830735207, z: -.184274778}
+      rotation: {x: 3.3703774e-34, y: -1.21430643e-17, z: 2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_10_3
+      position: {x: .0713812932, y: .830735207, z: .162618026}
+      rotation: {x: 3.3703774e-34, y: -1.21430643e-17, z: 2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_10_4
+      position: {x: 7.1054272e-17, y: 2.13162816e-16, z: -1.1546319e-16}
+      rotation: {x: 3.3703774e-34, y: -1.21430643e-17, z: 2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_7_3
+      position: {x: .0917015225, y: .00999565516, z: .01537468}
+      rotation: {x: 3.3703774e-34, y: -1.21430643e-17, z: 2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_5_2
+      position: {x: .0401627682, y: -6.39488435e-16, z: .0151922787}
+      rotation: {x: 3.3703774e-34, y: -1.21430643e-17, z: 2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11_12
+      position: {x: -.0914527848, y: -.103652753, z: -.0280493461}
+      rotation: {x: 2.57593307e-17, y: 7.23714545e-17, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12_12
+      position: {x: -.00468352344, y: 2.13162816e-16, z: 1.59872109e-16}
+      rotation: {x: 2.57593307e-17, y: 7.23714545e-17, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13_12
+      position: {x: -.0774022192, y: -.103652753, z: -.0280493461}
+      rotation: {x: -.5, y: .5, z: .5, w: -.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_6_2
+      position: {x: .0401627682, y: -2.13162816e-16, z: .0054430929}
+      rotation: {x: 3.3703774e-34, y: -1.21430643e-17, z: 2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11_11
+      position: {x: -.0914527848, y: -.103652753, z: -.0280493461}
+      rotation: {x: 2.57593307e-17, y: 7.23714545e-17, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12_11
+      position: {x: -.00468352344, y: 2.84217088e-16, z: 2.6645352e-17}
+      rotation: {x: 2.57593307e-17, y: 7.23714545e-17, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13_11
+      position: {x: -.0774022192, y: -.103652753, z: -.0280493461}
+      rotation: {x: -.5, y: .5, z: .5, w: -.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_7_2
+      position: {x: .0401627682, y: -5.68434176e-16, z: -.00359813985}
+      rotation: {x: 3.3703774e-34, y: -1.21430643e-17, z: 2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11_10
+      position: {x: -.0914527848, y: -.103652753, z: -.0280493461}
+      rotation: {x: 2.57593307e-17, y: 7.23714545e-17, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12_10
+      position: {x: -.00468352344, y: 7.10542693e-16, z: -1.24344979e-16}
+      rotation: {x: 2.57593307e-17, y: 7.23714545e-17, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13_10
+      position: {x: -.0774022192, y: -.103652753, z: -.0280493461}
+      rotation: {x: -.5, y: .5, z: .5, w: -.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_8_2
+      position: {x: .0401627682, y: -4.97379917e-16, z: -.0145037007}
+      rotation: {x: 3.3703774e-34, y: -1.21430643e-17, z: 2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11_9
+      position: {x: -.0914527848, y: -.103652753, z: -.0280493461}
+      rotation: {x: 2.57593307e-17, y: 7.23714545e-17, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12_9
+      position: {x: -.00468352344, y: 2.84217088e-16, z: -3.55271347e-16}
+      rotation: {x: 2.57593307e-17, y: 7.23714545e-17, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13_9
+      position: {x: -.0774022192, y: -.103652753, z: -.0280493461}
+      rotation: {x: -.5, y: .5, z: .5, w: -.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_9_2
+      position: {x: .0285350773, y: -1.42108544e-16, z: -.0251819864}
+      rotation: {x: -2.4475156e-17, y: .309143662, z: 7.95606384e-18, w: .951015353}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12_8
+      position: {x: -.00468352344, y: 4.97379917e-16, z: 1.42108544e-16}
+      rotation: {x: 1.86448495e-16, y: 1.0794386e-16, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13_8
+      position: {x: .10551773, y: -.0382132195, z: -.0734826624}
+      rotation: {x: .62277621, y: .411626518, z: .141192853, w: .650213778}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11_8
+      position: {x: -.00484071905, y: .000858512183, z: -.0103359642}
+      rotation: {x: .843019485, y: -.255579531, z: .0975101739, w: -.46312958}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_10
+      position: {x: -.0262126848, y: -.0751620755, z: -.0115682241}
+      rotation: {x: -1.57145113e-16, y: 6.19193194e-17, z: .555472612, w: .831534863}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11_7
+      position: {x: -.00702528516, y: 1.24344977e-15, z: -3.2862602e-16}
+      rotation: {x: -2.83965969e-16, y: 2.75379517e-16, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13_7
+      position: {x: .00702528516, y: 8.8817842e-16, z: -2.39808156e-16}
+      rotation: {x: -.5, y: .5, z: .5, w: -.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_11
+      position: {x: -.0263959765, y: -.0744486824, z: -.0223301072}
+      rotation: {x: 6.52776899e-16, y: -4.59784677e-16, z: .589903414, w: .807473838}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12_7
+      position: {x: .00702528516, y: -6.39488435e-16, z: -7.1054272e-17}
+      rotation: {x: .5, y: -.5, z: -.5, w: .5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_14_2
+      position: {x: -.00702528516, y: -6.75015591e-16, z: 0}
+      rotation: {x: -7.33527621e-16, y: -4.98013762e-16, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_12
+      position: {x: -.0267629325, y: -.0755478665, z: -.031568706}
+      rotation: {x: 6.887479e-17, y: -7.99408917e-17, z: .519294322, w: .854595482}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_15_2
+      position: {x: .00702528516, y: 9.59232626e-16, z: -3.73034925e-16}
+      rotation: {x: -.5, y: .5, z: .5, w: -.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_16_2
+      position: {x: -.00702528516, y: 1.0835777e-15, z: -1.86517462e-16}
+      rotation: {x: -3.21378329e-16, y: 2.28154095e-16, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_13
+      position: {x: -.0268650278, y: -.0749223605, z: -.0433646254}
+      rotation: {x: 5.15433154e-16, y: -2.1738869e-16, z: .627396345, w: .778700113}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_17
+      position: {x: .00702528516, y: -6.39488435e-16, z: -2.13162816e-16}
+      rotation: {x: .5, y: -.5, z: -.5, w: .5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_18
+      position: {x: -.00702528516, y: -9.94759834e-16, z: -1.86517462e-16}
+      rotation: {x: -1.83995226e-17, y: 5.7038521e-16, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_3_3
+      position: {x: .0821928829, y: -.830735207, z: -.184274778}
+      rotation: {x: 3.3703774e-34, y: -1.21430643e-17, z: 2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_3_4
+      position: {x: .0821928829, y: -.830735207, z: -.184274778}
+      rotation: {x: 3.3703774e-34, y: -1.21430643e-17, z: 2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_1
+      position: {x: -.0433868058, y: -.26373893, z: .112499215}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_9
+      position: {x: -2.84217088e-16, y: 1.06581408e-16, z: -2.6645352e-17}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_10
+      position: {x: -2.84217088e-16, y: 1.06581408e-16, z: -2.6645352e-17}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_2
+      position: {x: -.0302120671, y: -.10297367, z: -.00374631165}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_4_3
+      position: {x: .135155126, y: -.0478871204, z: -.00647116173}
+      rotation: {x: 1.42566911e-17, y: -1.63049912e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_8
+      position: {x: .175823912, y: .114669666, z: .0434606262}
+      rotation: {x: .0763702244, y: -.00739399716, z: -.0960831121, w: .992411673}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_copies
+      position: {x: .0469869263, y: .316333801, z: -.0116223078}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_0
+      position: {x: .265966177, y: -.0856743604, z: 7.1054272e-17}
+      rotation: {x: 1.42566911e-17, y: -1.63049912e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_1_4
+      position: {x: .260233074, y: -.115004539, z: 7.1054272e-17}
+      rotation: {x: 1.42566911e-17, y: -1.63049912e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_2_4
+      position: {x: .254499972, y: -.144334719, z: 7.1054272e-17}
+      rotation: {x: 1.42566911e-17, y: -1.63049912e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_3_4
+      position: {x: .248766869, y: -.173664883, z: 7.1054272e-17}
+      rotation: {x: 1.42566911e-17, y: -1.63049912e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_4_4
+      position: {x: .243033767, y: -.202995062, z: 7.1054272e-17}
+      rotation: {x: 1.42566911e-17, y: -1.63049912e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_5_3
+      position: {x: .27169928, y: -.056344185, z: 7.1054272e-17}
+      rotation: {x: 1.42566911e-17, y: -1.63049912e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_5_4
+      position: {x: .237300664, y: -.232325241, z: 7.1054272e-17}
+      rotation: {x: 1.42566911e-17, y: -1.63049912e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_6_4
+      position: {x: .231567547, y: -.26165542, z: 7.1054272e-17}
+      rotation: {x: 1.42566911e-17, y: -1.63049912e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_7_4
+      position: {x: .225834444, y: -.290985584, z: 7.1054272e-17}
+      rotation: {x: 1.42566911e-17, y: -1.63049912e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_2_2
+      position: {x: .0938869491, y: .379804254, z: -.0114114881}
+      rotation: {x: 1.79390941e-17, y: -1.40401336e-16, z: -.107604459, w: .994193792}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_2_5
+      position: {x: .0600123778, y: -.311083287, z: -.0257368591}
+      rotation: {x: .056697309, y: .154563636, z: .0666472539, w: .984100461}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_4_2
+      position: {x: .0600123778, y: -.311083287, z: -.0257368591}
+      rotation: {x: .056697309, y: .154563636, z: .0666472539, w: .984100461}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_6
+      position: {x: .0554387085, y: .273406953, z: .0281369593}
+      rotation: {x: .056697309, y: .154563636, z: .0666472539, w: .984100461}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Symmetry_1_4
+      position: {x: .275762498, y: -.738337934, z: -.005553931}
+      rotation: {x: 1.42566911e-17, y: -1.63049912e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_copies
+      position: {x: -.336353004, y: .980948031, z: -.0546728931}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_0
+      position: {x: .136393532, y: -.0664439723, z: -3.5527136e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_1
+      position: {x: .136393532, y: -.111525103, z: -3.5527136e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_2_2
+      position: {x: -1.06581408e-16, y: -.135243401, z: -7.1054272e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_3_2
+      position: {x: .136393532, y: -.201687366, z: -3.5527136e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_4_2
+      position: {x: .136393532, y: -.246768489, z: -1.06581408e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_5_2
+      position: {x: .136393532, y: -.291849613, z: -1.06581408e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_6_2
+      position: {x: .136393532, y: -.336930752, z: -1.06581408e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_7
+      position: {x: .136393532, y: -.0213628411, z: -3.5527136e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_copies_2
+      position: {x: -.336353004, y: .980948031, z: -.0546728931}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_0_2
+      position: {x: .136393532, y: -.0664439723, z: -3.5527136e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_1_2
+      position: {x: .136393532, y: -.111525103, z: -3.5527136e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_2_3
+      position: {x: -1.06581408e-16, y: -.135243401, z: -7.1054272e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_3_3
+      position: {x: .136393532, y: -.201687366, z: -3.5527136e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_4_3
+      position: {x: .136393532, y: -.246768489, z: -1.06581408e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_5_3
+      position: {x: .136393532, y: -.291849613, z: -1.06581408e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_6_3
+      position: {x: .136393532, y: -.336930752, z: -1.06581408e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_8
+      position: {x: .136393532, y: -.0213628411, z: -3.5527136e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Symmetry_2
+      position: {x: .275762498, y: -.738337934, z: -.005553931}
+      rotation: {x: 1.42566911e-17, y: -1.63049912e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_6_5
+      position: {x: 7.1054272e-17, y: .976060987, z: .0507312566}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_7_5
+      position: {x: 7.1054272e-17, y: .976060987, z: .0507312566}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_2_3
+      position: {x: -.0433868058, y: -.26373893, z: -.00769158872}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_11
+      position: {x: -2.48689959e-16, y: 1.06581408e-16, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_12
+      position: {x: -2.48689959e-16, y: 1.06581408e-16, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_3
+      position: {x: -.0238661002, y: -.161109388, z: -.00533488812}
+      rotation: {x: 1.01667487e-17, y: 7.90577291e-18, z: -.122232042, w: .992501557}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_5
+      position: {x: .00377746695, y: .0400520228, z: -.0502055064}
+      rotation: {x: 5.55871394e-17, y: -2.79717305e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Symmetry_1_3
+      position: {x: .0635460839, y: -.442040235, z: -.00235670083}
+      rotation: {x: 5.55871394e-17, y: -2.79717305e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_3_5
+      position: {x: -5.68434176e-16, y: .489364356, z: .00471340166}
+      rotation: {x: -1.23259516e-32, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_3_6
+      position: {x: -5.68434176e-16, y: .489364356, z: .00471340166}
+      rotation: {x: -1.23259516e-32, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_4
+      position: {x: .090511471, y: -.182472229, z: -.00533488812}
+      rotation: {x: -2.75960803e-17, y: -2.48002148e-17, z: .179259017, w: .983801901}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_4
+      position: {x: -.138065219, y: .12796098, z: -.0502055064}
+      rotation: {x: -1.10548876e-17, y: -1.93858829e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Symmetry_1_2
+      position: {x: -.0899319649, y: -.45083952, z: -.00235670083}
+      rotation: {x: -1.10548876e-17, y: -1.93858829e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_3_3
+      position: {x: -7.10542693e-16, y: .489364356, z: .00471340166}
+      rotation: {x: -7.70371978e-34, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_3_4
+      position: {x: -7.10542693e-16, y: .489364356, z: .00471340166}
+      rotation: {x: -7.70371978e-34, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_5_3
+      position: {x: .0423183627, y: .283980906, z: -.0119785406}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_1_3
+      position: {x: -3.5527136e-17, y: -7.1054272e-17, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_2_3
+      position: {x: -3.5527136e-17, y: -7.1054272e-17, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_3_2
+      position: {x: .00165761425, y: -.0438974835, z: -.0106136966}
+      rotation: {x: 7.63181979e-18, y: -8.74666007e-17, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_3_3
+      position: {x: -3.5527136e-17, y: -7.1054272e-17, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_4_2
+      position: {x: -3.5527136e-17, y: -7.1054272e-17, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_5_2
+      position: {x: -3.5527136e-17, y: -7.1054272e-17, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_6_3
+      position: {x: .175326273, y: -.0660695806, z: -.0226098206}
+      rotation: {x: 1.73709815e-17, y: -2.7489287e-16, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_1_2
+      position: {x: .154913083, y: -.589203656, z: .0149182305}
+      rotation: {x: -1.38777878e-17, y: 2.15105711e-16, z: 3.33066907e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_3
+      position: {x: -.0774565414, y: .294601828, z: -.00745911524}
+      rotation: {x: -1.38777878e-17, y: 2.15105711e-16, z: 3.33066907e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_3_2
+      position: {x: -.0774565414, y: .294601828, z: -.00745911524}
+      rotation: {x: -1.38777878e-17, y: 2.15105711e-16, z: 3.33066907e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_7_3
+      position: {x: .139325693, y: -.367309004, z: .0286006592}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_1_3
+      position: {x: -.0464198738, y: .147155389, z: -.0362922475}
+      rotation: {x: 7.63181979e-18, y: -8.74666007e-17, z: -.0963672027, w: .995345891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_3_7
+      position: {x: .0232099369, y: .080664359, z: .0725844949}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Symmetry_2_2
+      position: {x: .0232099369, y: -.227819741, z: -.0362922475}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_3_2
+      position: {x: -.0853062719, y: .164428338, z: -.162733436}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_1_3
+      position: {x: .0853062719, y: -.164428338, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_9_2
+      position: {x: -.0110250888, y: .0764000639, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_1_4
+      position: {x: .0205836408, y: .0447913334, z: 0}
+      rotation: {x: -6.14624974e-17, y: -1.13944103e-16, z: .425005406, w: .905190825}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_13
+      position: {x: .00646713423, y: .0222726408, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_3_8
+      position: {x: -.0610274523, y: -.051315207, z: 0}
+      rotation: {x: -.282791108, y: .648096621, z: .282791108, w: .648096621}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_4_2
+      position: {x: .00646713423, y: .0222726408, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_4_3
+      position: {x: .0205836408, y: .0447913334, z: 0}
+      rotation: {x: -6.14624974e-17, y: -1.13944103e-16, z: .425005406, w: .905190825}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_5_5
+      position: {x: -.120927177, y: .146796688, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_4_2
+      position: {x: .0535718985, y: -.141581163, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_1_4
+      position: {x: .0317343734, y: -.022847183, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_1_5
+      position: {x: .0317343734, y: -.022847183, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_10_2
+      position: {x: -.0265777409, y: -.0307921357, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_5_6
+      position: {x: .0219446011, y: .147700995, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_6_3
+      position: {x: -.0299081672, y: .0629163608, z: 0}
+      rotation: {x: -4.20574325e-17, y: -5.17498154e-17, z: .866025388, w: .5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_7_3
+      position: {x: -.114962257, y: .0600351021, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_1_2
+      position: {x: -.0296773259, y: -.0408977419, z: .0199161712}
+      rotation: {x: -1.81541951e-16, y: -.707106829, z: -1.81541951e-16, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_12
+      position: {x: .0669549406, y: .00499862107, z: 0}
+      rotation: {x: -6.9388939e-18, y: 0, z: -6.16297582e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11_13
+      position: {x: .0442154445, y: -.00999724213, z: 7.1054272e-17}
+      rotation: {x: -6.9388939e-18, y: 0, z: -6.16297582e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12_13
+      position: {x: -.0221077222, y: .00499862107, z: -7.1054272e-17}
+      rotation: {x: 9.99526588e-18, y: 8.82972688e-17, z: -.846180081, w: .532897115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13_13
+      position: {x: -.0221077222, y: .00499862107, z: -7.1054272e-17}
+      rotation: {x: 9.99526588e-18, y: 8.82972688e-17, z: -.846180081, w: .532897115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_2_4
+      position: {x: -.0296773259, y: -.0408977419, z: -.0237709135}
+      rotation: {x: 1.37383106e-16, y: .707106829, z: -1.37383106e-16, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_11_2
+      position: {x: .0669549406, y: .00499862107, z: 1.42108544e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_8_3
+      position: {x: .0442154445, y: -.00999724213, z: -1.42108544e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_9_3
+      position: {x: -.0221077222, y: .00499862107, z: 7.1054272e-17}
+      rotation: {x: 4.02269554e-18, y: 6.63349303e-18, z: -.846180081, w: .532897115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_10_5
+      position: {x: -.0221077222, y: .00499862107, z: 7.1054272e-17}
+      rotation: {x: 4.02269554e-18, y: 6.63349303e-18, z: -.846180081, w: .532897115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_5_4
+      position: {x: .0538420938, y: -.0278458018, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_13
+      position: {x: .0669549406, y: .00499862107, z: 7.1054272e-17}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_14_3
+      position: {x: .0442154445, y: -.00999724213, z: 7.1054272e-17}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_15_3
+      position: {x: -.0221077222, y: .00499862107, z: 0}
+      rotation: {x: 4.21753123e-17, y: -5.32811914e-17, z: -.846180081, w: .532897115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_16_3
+      position: {x: -.0221077222, y: .00499862107, z: 0}
+      rotation: {x: 4.21753123e-17, y: -5.32811914e-17, z: -.846180081, w: .532897115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_6_4
+      position: {x: -.0853062719, y: .164428338, z: -.162733436}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_1_6
+      position: {x: .0853062719, y: -.164428338, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_14
+      position: {x: -.0110250888, y: .0764000639, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_1_5
+      position: {x: .0205836408, y: .0447913334, z: 0}
+      rotation: {x: -6.14624974e-17, y: -1.13944103e-16, z: .425005406, w: .905190825}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_2_14
+      position: {x: .00646713423, y: .0222726408, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_3_9
+      position: {x: -.0610274523, y: -.051315207, z: 0}
+      rotation: {x: -.282791108, y: .648096621, z: .282791108, w: .648096621}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_4_4
+      position: {x: .00646713423, y: .0222726408, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_5_7
+      position: {x: -.120927177, y: .146796688, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_17_2
+      position: {x: .0205836408, y: .0447913334, z: 0}
+      rotation: {x: -6.14624974e-17, y: -1.13944103e-16, z: .425005406, w: .905190825}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_7_4
+      position: {x: .0535718985, y: -.141581163, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_1_7
+      position: {x: .0317343734, y: -.022847183, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_1_8
+      position: {x: .0317343734, y: -.022847183, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_15
+      position: {x: -.0265777409, y: -.0307921357, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_18_2
+      position: {x: .0219446011, y: .147700995, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_19
+      position: {x: -.0299081672, y: .0629163608, z: 0}
+      rotation: {x: -4.20574325e-17, y: -5.17498154e-17, z: .866025388, w: .5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_20
+      position: {x: -.114962257, y: .0600351021, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_1_3
+      position: {x: -.0296773259, y: -.0408977419, z: .0199161712}
+      rotation: {x: -1.81541951e-16, y: -.707106829, z: -1.81541951e-16, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_17
+      position: {x: .0669549406, y: .00499862107, z: 0}
+      rotation: {x: -6.9388939e-18, y: 0, z: -6.16297582e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_24
+      position: {x: .0442154445, y: -.00999724213, z: 7.1054272e-17}
+      rotation: {x: -6.9388939e-18, y: 0, z: -6.16297582e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_25
+      position: {x: -.0221077222, y: .00499862107, z: -7.1054272e-17}
+      rotation: {x: 9.99526588e-18, y: 8.82972688e-17, z: -.846180081, w: .532897115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_26
+      position: {x: -.0221077222, y: .00499862107, z: -7.1054272e-17}
+      rotation: {x: 9.99526588e-18, y: 8.82972688e-17, z: -.846180081, w: .532897115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_2_5
+      position: {x: -.0296773259, y: -.0408977419, z: -.0237709135}
+      rotation: {x: 1.37383106e-16, y: .707106829, z: -1.37383106e-16, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_16
+      position: {x: .0669549406, y: .00499862107, z: 1.42108544e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_21
+      position: {x: .0442154445, y: -.00999724213, z: -1.42108544e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_22
+      position: {x: -.0221077222, y: .00499862107, z: 7.1054272e-17}
+      rotation: {x: 4.02269554e-18, y: 6.63349303e-18, z: -.846180081, w: .532897115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_23
+      position: {x: -.0221077222, y: .00499862107, z: 7.1054272e-17}
+      rotation: {x: 4.02269554e-18, y: 6.63349303e-18, z: -.846180081, w: .532897115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_8_3
+      position: {x: .0538420938, y: -.0278458018, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_18
+      position: {x: .0669549406, y: .00499862107, z: 7.1054272e-17}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_27
+      position: {x: .0442154445, y: -.00999724213, z: 7.1054272e-17}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_28
+      position: {x: -.0221077222, y: .00499862107, z: 0}
+      rotation: {x: 4.21753123e-17, y: -5.32811914e-17, z: -.846180081, w: .532897115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_29
+      position: {x: -.0221077222, y: .00499862107, z: 0}
+      rotation: {x: 4.21753123e-17, y: -5.32811914e-17, z: -.846180081, w: .532897115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: right_arm
+      position: {x: .0874687284, y: .341039926, z: -.12292327}
+      rotation: {x: -.0474679731, y: .0212680735, z: -.408331543, w: .911350548}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_5
+      position: {x: .176046059, y: -.0296533387, z: -.0511462539}
+      rotation: {x: .0559037924, y: .741276145, z: -.663484573, w: -.0846916065}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arm
+      position: {x: 1.24344979e-16, y: .0173308086, z: -7.10542693e-16}
+      rotation: {x: -5.55111512e-17, y: -5.55111512e-17, z: 1, w: -6.12323426e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_14
+      position: {x: -.105979472, y: -.0245505162, z: .0884259418}
+      rotation: {x: -8.67361738e-19, y: 2.77555756e-17, z: 1.30104261e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_5_2
+      position: {x: .105979472, y: .0029614896, z: -.0884259418}
+      rotation: {x: -8.67361738e-19, y: 2.77555756e-17, z: 1.30104261e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_8
+      position: {x: .119001873, y: .0275323614, z: .00412011473}
+      rotation: {x: -.707106829, y: 1.15303683e-16, z: 2.45326963e-18, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_6
+      position: {x: .105979472, y: .0029614896, z: -.0884259418}
+      rotation: {x: -8.67361738e-19, y: 2.77555756e-17, z: 1.30104261e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_7
+      position: {x: .119001873, y: .0275323614, z: .00412011473}
+      rotation: {x: -.707106829, y: 1.15303683e-16, z: 2.45326963e-18, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_6_2
+      position: {x: -6.03961332e-16, y: 4.97379917e-16, z: 1.42108544e-16}
+      rotation: {x: -8.67361738e-19, y: -1.73472348e-18, z: -1.50463277e-36, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_9
+      position: {x: .0611757152, y: .00937872659, z: .00185352087}
+      rotation: {x: .0630688667, y: -.309693247, z: .00301486324, w: .9487378}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_2_2
+      position: {x: .0210171677, y: -.840113938, z: -.186128303}
+      rotation: {x: -3.85185989e-34, y: -1.38777878e-17, z: -2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_2_3
+      position: {x: 1.31450408e-15, y: -7.81597005e-16, z: -5.68434176e-16}
+      rotation: {x: -3.85185989e-34, y: -1.38777878e-17, z: -2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boole_3_2
+      position: {x: 1.31450408e-15, y: -7.81597005e-16, z: -5.68434176e-16}
+      rotation: {x: -3.85185989e-34, y: -1.38777878e-17, z: -2.77555756e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_10
+      position: {x: -.0176892225, y: .754543722, z: .233232334}
+      rotation: {x: -1.91259497e-16, y: -2.97445149e-16, z: -.16737105, w: .985894024}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_10_2
+      position: {x: .0261847749, y: .0162714459, z: -.00429823808}
+      rotation: {x: .410538733, y: -.330787033, z: .0926318839, w: .844663978}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cube_7_2
+      position: {x: .0559173226, y: .0117857195, z: -.121593989}
+      rotation: {x: .537441552, y: 8.77857853e-16, z: -3.78443309e-16, w: .843300998}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_5
+      position: {x: .0401627682, y: 5.68434176e-16, z: .0151922787}
+      rotation: {x: -2.77555756e-17, y: -2.77555756e-17, z: -7.70371978e-34, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12_6
+      position: {x: -.00468352344, y: -6.39488435e-16, z: -1.77635673e-16}
+      rotation: {x: -1.27570031e-16, y: 4.90653926e-17, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13_5
+      position: {x: 1.42108544e-16, y: .0140505703, z: 2.13162816e-16}
+      rotation: {x: .707106829, y: 3.48630583e-32, z: 1.96261571e-16, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11_5
+      position: {x: .00161475153, y: .00952686742, z: .0040995297}
+      rotation: {x: -.68160814, y: .188176334, z: .188176334, w: .68160814}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13_6
+      position: {x: -.0312084667, y: .0229080096, z: -.00801598467}
+      rotation: {x: .52099973, y: .478078812, z: .478078812, w: .52099973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11_6
+      position: {x: .0688756332, y: .0594042875, z: -.0882664397}
+      rotation: {x: -.746460259, y: -.0518282317, z: -.109113313, w: .654373944}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_6
+      position: {x: .0573658124, y: .12339928, z: .0649093613}
+      rotation: {x: -2.77555756e-17, y: -2.77555756e-17, z: -7.70371978e-34, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12_4
+      position: {x: -.0218865667, y: -.12339928, z: -.0594662689}
+      rotation: {x: -1.27570031e-16, y: 4.90653926e-17, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13_4
+      position: {x: -3.55271347e-16, y: .0140505703, z: -6.75015591e-16}
+      rotation: {x: .707106829, y: 3.48630583e-32, z: 1.96261571e-16, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11_4
+      position: {x: .00229967269, y: .00755643705, z: .00953002274}
+      rotation: {x: -.704568982, y: .0598544776, z: .0598544776, w: .704568982}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12_5
+      position: {x: -.0351859592, y: .0192244574, z: -.0122259222}
+      rotation: {x: .462010026, y: .535300672, z: .535300672, w: .462010026}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_14
+      position: {x: -.00343040493, y: .000207710371, z: -.00402012095}
+      rotation: {x: -.698943377, y: .107136399, z: .107136399, w: .698943377}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_7
+      position: {x: .0401627682, y: 4.97379917e-16, z: -.00359813985}
+      rotation: {x: -1.66533454e-16, y: -2.77555756e-17, z: -4.62223187e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12_2
+      position: {x: -.00468352344, y: -6.39488435e-16, z: 0}
+      rotation: {x: -1.17756942e-16, y: -1.57009256e-16, z: -.707106829, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13_2
+      position: {x: -9.23705523e-16, y: .0140505703, z: 4.26325632e-16}
+      rotation: {x: .707106829, y: 1.96261571e-17, z: 2.15887721e-16, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11_2
+      position: {x: -.00160920538, y: .00989015307, z: .00855073519}
+      rotation: {x: -.693189025, y: .139602929, z: .139602929, w: .693189025}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_15
+      position: {x: -.0275580157, y: .0229185298, z: -.00992668606}
+      rotation: {x: .485685557, y: .513915896, z: .513915896, w: .485685557}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_16
+      position: {x: -.00901066326, y: -.00345061929, z: -.00443020975}
+      rotation: {x: -.706634998, y: .0258260872, z: .0258260872, w: .706634998}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_8
+      position: {x: .0573658124, y: .12339928, z: .0449625738}
+      rotation: {x: -.636084616, y: -1.58167455e-16, z: -4.48843958e-18, w: .77161932}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12_3
+      position: {x: -.00468352344, y: -2.48689959e-16, z: -6.39488435e-16}
+      rotation: {x: .124417096, y: .109739803, z: -.621994853, w: .76524508}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13_3
+      position: {x: .00155851489, y: .0121856723, z: 2.7526652e-05}
+      rotation: {x: .695896387, y: -.125412315, z: -.125412315, w: .695896387}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11_3
+      position: {x: .00179145252, y: -.139647812, z: .0145924324}
+      rotation: {x: -.56847769, y: -.0514398851, z: -.143054157, w: .808531046}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Null_9
+      position: {x: .0457381196, y: .12339928, z: .0342842862}
+      rotation: {x: 5.01642359e-17, y: .309143662, z: 1.15026677e-16, w: .951015353}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_12
+      position: {x: -.00468352344, y: -3.55271347e-16, z: -3.5527136e-17}
+      rotation: {x: -.476026893, y: -.476026893, z: -.52287513, w: .52287513}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_13
+      position: {x: .000337049278, y: .0107254023, z: .00123665435}
+      rotation: {x: .695890486, y: -.125444934, z: -.125444934, w: .695890486}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Cylinder_11
+      position: {x: -.00167959789, y: .00029481927, z: -.00123898545}
+      rotation: {x: -.692861557, y: -.209544808, z: .292643398, w: .624814928}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Symmetry
+      position: {x: .162535623, y: -.595128715, z: -.00769158872}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Sweep_NURBS_1_3
+      position: {x: -.205185905, y: .88589263, z: -7.1054272e-17}
+      rotation: {x: 1.81094569e-17, y: -5.04822835e-17, z: -.127428412, w: .991847813}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Sweep_NURBS_1_4
+      position: {x: -.205185905, y: .88589263, z: -7.1054272e-17}
+      rotation: {x: 1.81094569e-17, y: -5.04822835e-17, z: -.127428412, w: .991847813}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Symmetry_1
+      position: {x: .162535623, y: -.595128715, z: -.00769158872}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Sweep_NURBS_1
+      position: {x: -2.13162816e-16, y: 2.13162816e-16, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Sweep_NURBS_1_2
+      position: {x: -2.13162816e-16, y: 2.13162816e-16, z: 0}
+      rotation: {x: 0, y: 2.46519033e-32, z: -6.9388939e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Sky
+      position: {x: -.115234971, y: .167246222, z: -.535164416}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Sphere
+      position: {x: .0927968472, y: .0230055954, z: .0333337672}
+      rotation: {x: .432770759, y: -.45930168, z: -.146835864, w: .761702478}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
